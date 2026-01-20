@@ -40,7 +40,7 @@ jobs:
             goarch: amd64
             goarm: ""
             filename: gows_freebsd_amd64
-          - os: ubuntu-latest
+          - hongos:h-latest
             goos: freebsd
             goarch: arm64
             goarm: ""
